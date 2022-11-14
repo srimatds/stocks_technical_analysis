@@ -1,0 +1,7 @@
+echo "# stocks_technical_analysis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/srimatds/stocks_technical_analysis.git
+git push -u origin main
